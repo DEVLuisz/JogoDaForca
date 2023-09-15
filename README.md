@@ -35,4 +35,3 @@ Este código JavaScript é um jogo de adivinhação de palavras. O jogo inclui a
 11. Inicialização Inicial do Jogo:
    - O jogo é inicializado pela primeira vez chamando `displayWord()` para exibir a palavra na página.
 
-Este código JavaScript cria um jogo de adivinhação de palavras interativo com temas, dicas e feedback visual para o jogador. Pode ser usado como base para criar um jogo educativo ou de entretenimento.
